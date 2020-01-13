@@ -13,6 +13,8 @@ Below is a collection of highly recommended books, articles & tutorials on progr
 ### General Design
 
 - [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.apr99cmww)
+- [The No Code Delusion](https://www.alexhudson.com/2020/01/13/the-no-code-delusion)
+- [Goodbye Clean Code](https://overreacted.io/goodbye-clean-code/)
 
 ### FP
 - 📔🆓[Frisbys mostly adequate guide to FP](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
