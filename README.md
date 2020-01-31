@@ -36,6 +36,7 @@ Below is a collection of highly recommended books, articles & tutorials on progr
 - [git Flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html): most popular git branch strategy
 - [git Rebase in Depth](https://git-rebase.io/)
 - [How to teach git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+- [oh shit! git](https://ohshitgit.com)
 
 ### OTHER STUFF YOU SHOULD KNOW!
 
