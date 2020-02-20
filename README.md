@@ -50,3 +50,4 @@ Below is a collection of highly recommended books, articles & tutorials on progr
 - 😂[It Takes 6 Days to Change 1 Line of Code](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code) 
 - [Splitting User Stories](https://mikeborozdin.com/post/split-user-stories-get-value-early/)
 - [Refactoring not on the backlog!](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
+- [basecamp's communication guide](https://basecamp.com/guides/how-we-communicate)
