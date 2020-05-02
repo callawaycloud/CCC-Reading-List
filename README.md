@@ -22,6 +22,7 @@ Below is a collection of highly recommended books, articles & tutorials on progr
 
 ### OOO
 
+- [source making: Design Patterns](https://sourcemaking.com/design_patterns)
 - 📔[Eligant Objects](https://www.elegantobjects.org/): an interesting take on PURE OO.  Easy to read; hard to agree with. Even if it's not totally practical for most, worth the read.
 - 📔[Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - 😂[FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition): Good example of what not to do
