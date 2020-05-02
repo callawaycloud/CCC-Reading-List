@@ -38,10 +38,11 @@ Below is a collection of highly recommended books, articles & tutorials on progr
 - [How to teach git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [oh shit! git](https://ohshitgit.com)
 
-### OTHER STUFF YOU SHOULD KNOW!
+### Other stuff you should know!
 
 - [Learn Regex: The easy way](https://github.com/ziishaned/learn-regex/blob/master/README.md): extremely helpful guide to regex
 - [Mastering Bash & Terminal](https://www.blockloop.io/mastering-bash-and-terminal/)
+- [awk in 20 minuntes](https://ferd.ca/awk-in-20-minutes.html)
 
 ## Project Management
 
