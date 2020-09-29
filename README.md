@@ -10,6 +10,9 @@ Below is a collection of highly recommended books, articles & tutorials on progr
 - [Object Oriented Programming With A Real-World Scenario](https://www.c-sharpcorner.com/uploadfile/cda5ba/object-oriented-programming-with-real-world-scenario/)
 - 📔[Advanced Apex](http://advancedapex.com/) Salesforce Specific patterns.
 
+### Low Code
+- [Flow for Developers](https://nebulaconsulting.co.uk/insights/flow-for-developers/)
+
 ### General Design
 
 - [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.apr99cmww)
