@@ -42,10 +42,11 @@ Below is a collection of highly recommended books, articles & tutorials on progr
 - [How to teach git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [oh shit! git](https://ohshitgit.com)
 
-### javascript / typescript
+### javascript / typescript / node
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [typescript deep dive](https://basarat.gitbook.io/typescript/)
+- [Understanding the npm Dependency Model](https://lexi-lambda.github.io/blog/2016/08/24/understanding-the-npm-dependency-model)
 
 ### Other stuff you should know!
 
