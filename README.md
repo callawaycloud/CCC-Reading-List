@@ -47,6 +47,8 @@ Below is a collection of highly recommended books, articles & tutorials on progr
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [typescript deep dive](https://basarat.gitbook.io/typescript/)
 - [Understanding the npm Dependency Model](https://lexi-lambda.github.io/blog/2016/08/24/understanding-the-npm-dependency-model)
+- [stream-adventure](https://github.com/workshopper/stream-adventure): interactive workshop for node streams
+- [broken promises](https://github.com/nearform/promises-workshop): workshop for promises
 
 ### Other stuff you should know!
 
